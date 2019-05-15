@@ -49,56 +49,63 @@
 
 ## （1）执行函数（Execute）：申请一个职工群类，调用所有的函数，程序中所有的步骤都在这里执行（从登录到退出程序）。（见图3-1）
 
-![img](flowchat_images/excute.jpg)
+<div align=center><img width="550" height="800" src="flowchat_images/excute.jpg"/></div>
 
 <center>图3-1 执行函数</center>
 
 ## （2）添加函数（add）：输入职工信息，用数组存入内存。然后用save()函数保存。
 
-![img](flowchat_images/add.jpg)
+<div align=center><img width="600" height="400" src="flowchat_images/add.jpg"/></div>
 
-<center>图3-2 添加函数 
+<center>图3-2 添加函数 </center>
+
 
 （3）保存函数（save）：将输入的信息追加存入到文件中。
 
-![img](flowchat_images/save.png)
+<div align=center><img width="600" height="450" src="flowchat_images/save.png"/></div>
 
-<center>图3-3 保存函数
+<center>图3-3 保存函数</center>
+
 
 ## (4)查找函数（showcur）：根据用户输入的选项，去选择工号、姓名、性别、学历……其中之一进行查找符合要求的所有职工，并输出到屏幕上。
 
-![img](flowchat_images/search.png)
+<div align=center><img width="700" height="700" src="flowchat_images/search.png"/></div>
 
-<center>图3-4 查找函数 
+<center>图3-4 查找函数 </center>
 
- 
+
+
 
 ## (5)修改函数（Amend）：输入工号以确定要修改的职工，如果存在该职工则再输入要修改的项目，修改完成后保存到文件。
 
-![img](flowchat_images/modify.png)
+<div align=center><img width="600" height="600" src="flowchat_images/modify.png"/></div>
 
-<center>图3-5 修改函数
+<center>图3-5 修改函数</center>
+
 
 ## （6）排序函数（sort）：输入排序标准，根据姓名、工资等升序降序排序并保存。
 
-![img](flowchat_images/sort.png)
+<div align=center><img width="600" height="600" src="flowchat_images/sort.png"/></div>
 
-<center>图3-6 排序函数
+<center>图3-6 排序函数</center>
+
 
 ## （7）删除函数（delete）：打开文件，输入工号确定删除的职工，删除后保存。
 
-![img](flowchat_images/del.png)
+<div align=center><img width="400" height="450" src="flowchat_images/del.png"/></div>
 
-<center>图3-7 删除函数
+<center>图3-7 删除函数</center>
+
 
 ## （8）库显示函数（showsaved）：打开文件，读取并显示到屏幕上，关闭文件。
 
-![img](flowchat_images/database.png)
+<div align=center><img width="400" height="450" src="flowchat_images/database.png"/></div>
 
-<center>图3-8 库显示函数
+<center>图3-8 库显示函数</center>
+
 
 ##  （9）修改密码（ChangePw）：输入旧密码正确后才能修改，连续输入两次相同新密码才修改成功。
 
-![img](flowchat_images/modify_passwd.png)
+<div align=center><img width="600" height="600" src="flowchat_images/modify_passwd.png"/></div>
 
-<center>图3-9 修改密码函数
+<center>图3-9 修改密码函数</center>
