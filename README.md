@@ -99,7 +99,7 @@
 
 ## （8）库显示函数（showsaved）：打开文件，读取并显示到屏幕上，关闭文件。
 
-<div align=center><img width="400" height="450" src="flowchat_images/database.png"/></div>
+<div align=center><img width="400" height="450" src="flowchat_images/show_database.png"/></div>
 
 <div align=center>图3-8 库显示函数</div>
 
